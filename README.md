@@ -2,10 +2,10 @@
 
 Bienvenue sur la page GitHub officielle du projet **BookClub** !
 
-BookClub est une application web de type club de lecture, inspirée de Goodreads, centrée sur :
+BookClub est une application web de type club de lecture, centrée sur :
 - 🧑‍🎨 **Les jeunes auteurs** qui veulent des retours concrets et des conseils sur leurs créations
 - 📖 **Les passionnés de mangas et manhua** qui souhaitent partager, discuter et recommander leurs lectures
-- 🗣️ **L'échange communautaire** autour des ressentis et expériences de lecture
+- 🗣️ **L'échange communautaire** autour des ressentis et expériences de lecture (pas d'avis ou commentaires, une intéraction directe)
 
 ---
 
